@@ -1,0 +1,91 @@
+@charset "UTF-8";
+.menu{
+	position: fixed;
+	width: 300px;
+}
+
+.topic{
+	background-color:lightslategray;
+	color: white;
+	padding: 4px;
+	text-align: center;
+	width: 500px;
+}
+.titles{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 2em;
+	text-align: center;
+}
+
+.tinterno{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	line-height: 14px;
+	text-align: justify;
+}
+.general{
+	width: 100%
+}
+
+.container-fluid{
+	border: solid #FFFFFF 15px;
+	align-items: center;
+}
+
+.ilustracion{
+	align-items: center;
+	height: 400px;
+	width: 500px;
+}
+.maininfo{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+	align-content: center;
+}
+.informacion{
+	background-color:steelblue;
+	color: aliceblue;
+	text-align: center;
+	height: 700px;
+	padding: 100px;
+	
+}
+
+
+.heading{
+	background-color: orange;
+	text-align: center;
+	padding: 30px;
+	height: 100px;
+}
+
+.cont{
+	background-color:steelblue;
+	color: white;
+	width: 100%;
+	padding: 30px;
+	height: 400px;
+}
+
+.sidebar{
+	text-align: center;
+	width: 100%;
+}
+
+.flat{
+	background-color: orange;
+	border: solid #F9F9F9 3px;
+	text-align: center;
+	padding: 50px;
+	height: 250px;
+}
+
+.galery{
+	text-align: center;
+	height: 400px;
+	align-content: center;
+	border: solid #FFFFFF;
+}
+
+.middle{
+	text-align: center;
+}
